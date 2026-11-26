@@ -1,5 +1,11 @@
 # First NoSQL Database
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A streaming company needed a scalable database solution to store large volumes of viewer behavior data.
