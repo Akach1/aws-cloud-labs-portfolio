@@ -81,3 +81,9 @@ Created resilient infrastructure capable of recovering from failures and adaptin
 ## Resume Bullet
 
 Implemented self-healing cloud infrastructure using Auto Scaling Groups, Launch Templates, and CloudWatch monitoring to improve application reliability.
+
+## Navigation
+
+⬅️ [Core Security Concepts](../09-core-security-concepts/)
+
+➡️ [Connecting VPCs](../11-connecting-vpcs/)
