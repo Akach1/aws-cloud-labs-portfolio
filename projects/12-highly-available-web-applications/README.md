@@ -26,6 +26,26 @@ Design a highly available multi-tier architecture using load balancing, auto sca
 - Amazon S3
 - Amazon CloudWatch
 
+## Architecture Diagram
+
+<img width="1500" height="853" alt="HighlyAvailableWebApplications" src="https://github.com/user-attachments/assets/7642170d-e5e1-4b62-b35e-33936f1a79da" />
+
+## Architecture Summary
+
+This solution implements a highly available web application architecture using Route 53, CloudFront, Elastic Load Balancing, Auto Scaling, EC2, and Amazon RDS. Traffic is distributed across multiple Availability Zones to improve resiliency and fault tolerance.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Route 53 | DNS resolution |
+| CloudFront | Content delivery and caching |
+| Elastic Load Balancer | Distributes application traffic |
+| Auto Scaling Group | Manages EC2 capacity |
+| EC2 Instances | Host web application |
+| Amazon RDS | Database services |
+| CloudWatch | Monitoring and scaling |
+
 ## Implementation
 
 - Configured load balancing
