@@ -1,5 +1,11 @@
 # Cloud Economics
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A surf shop required a cloud cost estimate for a scalable online store architecture.
