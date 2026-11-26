@@ -20,6 +20,25 @@ Implement a managed shared file system using Amazon Elastic File System (EFS).
 - Amazon EFS
 - Amazon EC2
 
+## Architecture Diagram
+
+<img width="1500" height="943" alt="FileSystemsintheCloud" src="https://github.com/user-attachments/assets/de258741-ad86-4c96-b0ef-68180dbe389f" />
+
+## Architecture Summary
+
+This solution implements Amazon EFS as a shared file system accessible by multiple Amazon EC2 instances across different Availability Zones.
+
+Each web server mounts the same EFS file system, allowing data and application files to be shared across multiple systems while maintaining centralized storage.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Amazon EFS | Provides shared file storage |
+| Amazon EC2 | Hosts application workloads |
+| EFS Mount Targets | Connect EC2 instances to EFS |
+| Availability Zones | Improve resilience and accessibility |
+
 ## Implementation
 
 - Created an Amazon EFS file system
