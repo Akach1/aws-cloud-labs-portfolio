@@ -1,5 +1,11 @@
 # Cloud Computing Essentials
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 The web team needed a solution to improve the reliability of their beach wave conditions website.
