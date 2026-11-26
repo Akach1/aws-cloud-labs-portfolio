@@ -1,5 +1,7 @@
 # AWS Cloud Labs Portfolio
 
+<img width="464" height="464" alt="aws-simulearn-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/87847e60-a24c-491f-9195-656b89a87092" />
+
 ## About Me
 
 My name is Favour Anayochukwu.
