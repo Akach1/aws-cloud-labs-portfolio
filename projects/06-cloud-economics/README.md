@@ -19,6 +19,25 @@ Design scalable cloud infrastructure while evaluating associated costs.
 - AWS Pricing Tools
 - AWS Cost Models
 
+## Architecture Diagram
+
+<img width="1500" height="830" alt="CloudEconomics" src="https://github.com/user-attachments/assets/2af7bd3a-6cc5-4ca9-89e4-084ed5c50e63" />
+
+## Architecture Summary
+
+This solution evaluates cloud infrastructure costs by comparing traditional fixed-capacity environments with elastic AWS resources.
+
+Auto Scaling allows infrastructure to match customer demand, reducing unused capacity and helping organizations pay only for the resources they require.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Auto Scaling Group | Matches capacity to demand |
+| Amazon EC2 | Provides compute resources |
+| Pricing Estimates | Supports cost planning |
+| Scaled Resources | Adjust based on workload demand |
+
 ## Implementation
 
 - Evaluated architectural requirements
