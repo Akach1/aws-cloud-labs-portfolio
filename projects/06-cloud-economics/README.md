@@ -73,3 +73,9 @@ Provided cost visibility to support cloud adoption decisions.
 ## Resume Bullet
 
 Performed cloud cost analysis and capacity planning to support scalable AWS solution design.
+
+## Navigation
+
+⬅️ [Networking Concepts](../05-networking-concepts/)
+
+➡️ [File Systems in the Cloud](../07-file-systems-in-the-cloud/)
