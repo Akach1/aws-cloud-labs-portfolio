@@ -18,6 +18,26 @@ Resize and optimize EC2 infrastructure to meet new workload requirements.
 
 - Amazon EC2
 
+## Architecture Diagram
+
+<img width="1350" height="1000" alt="ComputingSolutions" src="https://github.com/user-attachments/assets/b7d1f9a4-8b20-49e4-ba7d-67ae72f510be" />
+
+## Architecture Summary
+
+This solution improves application performance by resizing Amazon EC2 instances and managing them through AWS Systems Manager and EC2 Instance Connect.
+
+The architecture enables administrators to access instance metadata, manage infrastructure, and upgrade compute resources as workload requirements grow.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Amazon EC2 | Hosts application workloads |
+| AWS Systems Manager | Supports instance management |
+| EC2 Instance Connect | Provides secure access |
+| Instance Metadata | Stores infrastructure information |
+| Web Browser | Access interface for management |
+
 ## Implementation
 
 - Evaluated infrastructure requirements
