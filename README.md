@@ -132,3 +132,14 @@ Recruiters and hiring managers may wish to begin with:
 
 To become a Cloud Engineer, Cloud Security Engineer, or DevSecOps professional by combining my automation background with cloud and cybersecurity expertise.
 
+## Start Here
+
+Recommended reading order:
+
+1. PROJECT-SUMMARY.md
+2. Networking Concepts
+3. Core Security Concepts
+4. Databases in Practice
+5. Highly Available Web Applications
+
+These projects provide the strongest demonstration of cloud engineering, security, networking, and architecture skills.
