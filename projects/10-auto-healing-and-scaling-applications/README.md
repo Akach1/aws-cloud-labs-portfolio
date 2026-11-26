@@ -1,5 +1,11 @@
 # Auto-Healing and Scaling Applications
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A gaming café wanted servers that could automatically recover from failures while maintaining controlled capacity limits.
