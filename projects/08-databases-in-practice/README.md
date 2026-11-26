@@ -1,5 +1,11 @@
 # Databases in Practice
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 An insurance company wanted to reduce operational overhead, improve database availability, and increase efficiency.
