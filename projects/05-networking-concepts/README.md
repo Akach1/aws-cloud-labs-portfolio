@@ -23,6 +23,26 @@ Design a Virtual Private Cloud architecture using public and private subnets.
 - Route Tables
 - Internet Gateway
 
+## Architecture Diagram
+
+<img width="1350" height="747" alt="NetworkingConcepts" src="https://github.com/user-attachments/assets/ed45d8a5-afa1-48c0-863a-c6976f685969" />
+
+
+## Architecture Summary
+
+This solution uses an Amazon VPC with public and private subnets to separate internet-facing resources from internal database services. Security Groups and routing controls restrict access and protect sensitive resources.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Amazon VPC | Provides network isolation |
+| Public Subnet | Hosts web application |
+| Private Subnet | Hosts database server |
+| Internet Gateway | Enables internet access |
+| Security Groups | Control network traffic |
+| Route Table | Directs network traffic |
+
 ## Implementation
 
 - Created a VPC
