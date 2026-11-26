@@ -79,3 +79,9 @@ Reduced database administration workload while improving reliability and perform
 ## Resume Bullet
 
 Configured managed database infrastructure using Amazon RDS with Multi-AZ deployments and read replicas to improve availability and operational efficiency.
+
+## Navigation
+
+⬅️ [File Systems in the Cloud](../07-file-systems-in-the-cloud/)
+
+➡️ [Core Security Concepts](../09-core-security-concepts/)
