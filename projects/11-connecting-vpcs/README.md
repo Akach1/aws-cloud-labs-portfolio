@@ -79,3 +79,9 @@ Enabled communication between departments while preserving isolated network envi
 ## Resume Bullet
 
 Configured AWS VPC Peering and routing policies to enable secure communication between isolated cloud network environments.
+
+## Navigation
+
+⬅️ [Auto-Healing and Scaling Applications](../10-auto-healing-and-scaling-applications/)
+
+➡️ [Highly Available Web Applications](../12-highly-available-web-applications/)
