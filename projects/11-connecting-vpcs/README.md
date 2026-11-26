@@ -1,5 +1,11 @@
 # Connecting VPCs
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 The marketing department required separate network environments while maintaining communication between departments.
