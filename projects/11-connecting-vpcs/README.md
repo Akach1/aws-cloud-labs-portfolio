@@ -20,6 +20,25 @@ Implement AWS VPC Peering connections between isolated virtual networks.
 - Amazon VPC
 - VPC Peering
 - Route Tables
+## Architecture Diagram
+
+<img width="1500" height="830" alt="ConnectingVPCs" src="https://github.com/user-attachments/assets/59ba2620-2442-49bf-9b9f-65db0404474f" />
+
+## Architecture Summary
+
+This solution connects separate departmental VPCs through VPC Peering, enabling secure communication while maintaining network isolation.
+
+Route tables and peering connections allow resources within the Marketing, Finance, and Developer environments to communicate without exposing traffic to the public internet.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Marketing VPC | Hosts departmental resources |
+| Finance VPC | Hosts financial services |
+| Developer VPC | Hosts development resources |
+| VPC Peering Connections | Enable communication |
+| Route Tables | Direct network traffic |
 
 ## Implementation
 
