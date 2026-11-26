@@ -83,3 +83,9 @@ Enabled secure external access while protecting sensitive internal resources.
 ## Resume Bullet
 
 Designed and implemented secure AWS networking infrastructure using VPCs, subnets, route tables, and security groups.
+
+## Navigation
+
+⬅️ [First NoSQL Database](../04-first-nosql-database/)
+
+➡️ [Cloud Economics](../06-cloud-economics/)
