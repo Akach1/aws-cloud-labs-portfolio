@@ -87,3 +87,8 @@ Provided a highly available cloud architecture capable of maintaining service du
 ## Resume Bullet
 
 Designed and implemented a highly available AWS architecture using load balancing, Auto Scaling, Route 53, CloudFront, and Multi-AZ database deployments to improve resilience and service continuity.
+## Navigation
+
+⬅️ [Connecting VPCs](../11-connecting-vpcs/)
+
+➡️ Portfolio Complete 🎉
