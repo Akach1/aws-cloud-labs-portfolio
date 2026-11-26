@@ -1,5 +1,25 @@
 # Cloud First Steps
 
+## Architecture Diagram
+
+<img width="1500" height="850" alt="CloudFirstSteps" src="https://github.com/user-attachments/assets/d46a07f1-1f29-4f46-b72c-46f8e6c583ac" />
+
+
+## Architecture Summary
+
+This solution deploys application components across multiple Availability Zones to improve reliability and availability.
+
+Amazon EC2 instances host the computational modules while Amazon EBS volumes provide persistent storage. Distributing resources across Availability Zones helps reduce the impact of infrastructure failures.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Amazon EC2 | Hosts computational modules |
+| Amazon EBS | Provides persistent storage |
+| Availability Zones | Improve availability and resilience |
+| AWS Region | Groups infrastructure resources |
+
 ## Business Scenario
 
 The island stabilization team needed to increase the reliability and availability of its stabilization system.
