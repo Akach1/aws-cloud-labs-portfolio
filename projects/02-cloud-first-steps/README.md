@@ -79,3 +79,9 @@ Increased service resiliency and improved infrastructure availability.
 ## Resume Bullet
 
 Deployed AWS cloud infrastructure using EC2 and EBS while implementing availability-focused design principles.
+
+## Navigation
+
+⬅️ [Cloud Computing Essentials](../01-cloud-computing-essentials/)
+
+➡️ [Computing Solutions](../03-computing-solutions/)
