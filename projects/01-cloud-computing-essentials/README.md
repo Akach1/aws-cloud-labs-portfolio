@@ -79,3 +79,7 @@ The solution improved application reliability while providing a flexible cloud f
 ## Resume Bullet
 
 Designed and implemented a cloud-based solution to improve application reliability while gaining hands-on experience with AWS cloud infrastructure concepts.
+
+## Navigation
+
+➡️ [Cloud First Steps](../02-cloud-first-steps/)
