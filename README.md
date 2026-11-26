@@ -41,6 +41,15 @@ Credential Earned:
 
 ## Projects
 
+## Recommended Projects
+
+Recruiters and hiring managers may wish to begin with:
+
+- Networking Concepts
+- Core Security Concepts
+- Databases in Practice
+- Highly Available Web Applications
+  
 ### Fundamental Projects
 
 1. Cloud Computing Essentials
