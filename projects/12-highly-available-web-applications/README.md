@@ -1,5 +1,11 @@
 # Highly Available Web Applications
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A travel agency needed its web application to remain available even if individual infrastructure components failed.
