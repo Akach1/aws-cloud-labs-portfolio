@@ -82,3 +82,9 @@ Reduced security risk by ensuring users only had access necessary for their resp
 ## Resume Bullet
 
 Implemented AWS IAM security controls using users, groups, and managed policies while applying least-privilege access principles.
+
+## Navigation
+
+⬅️ [Databases in Practice](../08-databases-in-practice/)
+
+➡️ [Auto-Healing and Scaling Applications](../10-auto-healing-and-scaling-applications/)
