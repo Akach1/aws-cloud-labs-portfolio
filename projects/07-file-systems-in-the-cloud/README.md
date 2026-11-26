@@ -1,5 +1,11 @@
 # File Systems in the Cloud
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A pet modeling agency needed a way to share files across multiple branch offices without managing physical storage infrastructure.
