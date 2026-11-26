@@ -21,6 +21,25 @@ Implement Amazon RDS with high availability features and managed database servic
 - Read Replicas
 - Multi-AZ Deployments
 
+## Architecture Diagram
+
+<img width="1500" height="830" alt="DatabasesinPractice" src="https://github.com/user-attachments/assets/e20a133e-314e-48a6-a588-6b3084b48bc5" />
+
+## Architecture Summary
+
+This solution uses Amazon RDS with Multi-AZ deployment and read replicas to improve database availability, performance, and disaster recovery capabilities.
+
+Customer applications send write requests to the primary database instance while read traffic can be distributed to replicas. Multi-AZ replication provides automatic failover if the primary instance becomes unavailable.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| Amazon RDS Primary Instance | Handles database operations |
+| Read Replica | Improves read performance |
+| Standby Replica | Supports failover and resilience |
+| Customer Application | Generates database traffic |
+
 ## Implementation
 
 - Configured Amazon RDS
