@@ -77,3 +77,9 @@ Provided scalable shared storage accessible across multiple systems without requ
 ## Resume Bullet
 
 Implemented a scalable shared file storage solution using Amazon Elastic File System (EFS) to support multi-system file access across cloud environments.
+
+## Navigation
+
+⬅️ [Cloud Economics](../06-cloud-economics/)
+
+➡️ [Databases in Practice](../08-databases-in-practice/)
