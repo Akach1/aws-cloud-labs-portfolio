@@ -74,3 +74,9 @@ Improved application performance and resource utilization.
 ## Resume Bullet
 
 Optimized cloud infrastructure by evaluating workload requirements and implementing improved EC2 resource configurations.
+
+## Navigation
+
+⬅️ [Cloud First Steps](../02-cloud-first-steps/)
+
+➡️ [First NoSQL Database](../04-first-nosql-database/)
