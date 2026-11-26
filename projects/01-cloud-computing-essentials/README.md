@@ -15,6 +15,11 @@ The web team needed a solution to improve the reliability of their beach wave co
 
 Deploy the application on AWS cloud infrastructure using managed cloud services that improve reliability and operational flexibility.
 
+## AWS Services Used
+
+- Amazon EC2
+- AWS Cloud Infrastructure
+
 ## Architecture Diagram
 
 <img width="1442" height="457" alt="Cloud Computing Essentials" src="https://github.com/user-attachments/assets/06122d82-160a-4305-b374-23fc03ee8a10" />
@@ -34,11 +39,6 @@ Bucket policies are used to control access to website resources while Amazon S3 
 | Bucket Policy | Controls access permissions |
 | Web Portal | Provides user access |
 | Website Content | HTML, CSS, and static assets |
-
-## AWS Services Used
-
-- Amazon EC2
-- AWS Cloud Infrastructure
 
 ## Implementation
 
