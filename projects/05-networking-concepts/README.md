@@ -1,5 +1,11 @@
 # Networking Concepts
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A banking organization required a secure network architecture that controlled communication between internal resources and internet-facing systems.
