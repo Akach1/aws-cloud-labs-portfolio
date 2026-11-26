@@ -21,6 +21,27 @@ Implement Identity and Access Management (IAM) policies, groups, and roles.
 - Amazon EC2
 - Amazon RDS
 
+## Architecture Diagram
+
+<img width="1500" height="835" alt="CoreSecurityConcepts" src="https://github.com/user-attachments/assets/9ca22686-8e4e-4caf-ab84-cf82e189c2f2" />
+
+## Architecture Summary
+
+This solution implements AWS Identity and Access Management (IAM) using groups and managed policies to enforce least-privilege access.
+
+Support engineers are assigned to an IAM group with read-only permissions for Amazon EC2 and Amazon RDS resources. IAM policies allow users to view infrastructure resources while preventing administrative actions that could impact system availability.
+
+## Key Components
+
+| Component | Purpose |
+|------------|----------|
+| IAM User Group | Groups users with similar responsibilities |
+| IAM Policies | Define allowed actions |
+| Support Engineers | Access cloud resources |
+| Amazon EC2 | Compute resources |
+| Amazon RDS | Database resources |
+| Read-Only Permissions | Restrict administrative actions |
+
 ## Implementation
 
 - Created IAM users
