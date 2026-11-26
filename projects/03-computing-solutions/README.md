@@ -1,5 +1,11 @@
 # Computing Solutions
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 A school wanted to upgrade its scheduling application by increasing compute and memory resources.
