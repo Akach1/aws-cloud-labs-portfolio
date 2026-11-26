@@ -1,5 +1,11 @@
 # Cloud First Steps
 
+## Related Certificate
+
+This project was completed as part of the AWS SimuLearn Cloud Practitioner learning path.
+
+Certificate available in this directory.
+
 ## Business Scenario
 
 The island stabilization team needed to increase the reliability and availability of its stabilization system.
