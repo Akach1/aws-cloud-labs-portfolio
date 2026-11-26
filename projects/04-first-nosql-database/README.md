@@ -71,3 +71,9 @@ Enabled efficient and scalable storage of viewer analytics data.
 ## Resume Bullet
 
 Designed and implemented a scalable NoSQL database solution for high-volume application data using Amazon DynamoDB.
+
+## Navigation
+
+⬅️ [Computing Solutions](../03-computing-solutions/)
+
+➡️ [Networking Concepts](../05-networking-concepts/)
